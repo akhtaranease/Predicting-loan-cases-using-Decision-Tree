@@ -33,9 +33,9 @@ Model evaluation using confusion matrix, classification metrics
 
 
 
-**Usage**
 
-The Jupyter notebook contains detailed code and analysis for the project. The main steps are:
+
+**The Jupyter notebook contains detailed code and analysis for the project. The main steps are:**
 
 Import libraries and dataset
 

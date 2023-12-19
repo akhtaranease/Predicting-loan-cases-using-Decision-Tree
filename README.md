@@ -11,6 +11,7 @@ The dataset is obtained from Analytics Vidhya's loan prediction hackathon. It co
 
 
 **The following methods are used in this project:**
+
 Exploratory Data Analysis and Visualization
 
 Data Cleaning and Preprocessing

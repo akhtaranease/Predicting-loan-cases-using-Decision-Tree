@@ -34,10 +34,15 @@ Usage
 The Jupyter notebook contains detailed code and analysis for the project. The main steps are:
 
 Import libraries and dataset
+
 Data analysis and visualization
+
 Data preprocessing
+
 Train-test split
+
 Fit decision tree model
+
 Make predictions and evaluate model performance
 
 

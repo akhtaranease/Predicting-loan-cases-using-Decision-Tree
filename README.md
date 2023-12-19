@@ -1,9 +1,11 @@
 # Predicting-loan-cases-using-Decision-Tree
 
 Loan Prediction Project
+
 This project aims to predict whether a loan application will get approved or not based on applicant details provided in the dataset.
 
 Data
+
 The dataset is obtained from Analytics Vidhya's loan prediction hackathon. It contains details like gender, marital status, income, loan amount, credit history etc. for over 600 applicants.
 
 
